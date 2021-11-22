@@ -42,6 +42,13 @@ FTX cashback code,
 Gate.io cashback code, 
 Tokocrypto cashback code, 
 Indodax cashback code, 
+Binance promo code, 
+Binance Futures promo code, 
+KuCoin promo code, 
+FTX promo code, 
+Gate.io promo code, 
+Tokocrypto promo code, 
+Indodax promo code, 
 Binance bonus code
 Binance Futures bonus code
 KuCoin bonus code
