@@ -4,7 +4,7 @@ Built with React and Tailwind.
 
 ## Referral Codes
 | Exhange | Description | Referral Code | Link |
-| --- | --- | --- | --- |
+| :---: | :--- | :---: | :--- |
 | Binance | Use Binances referral code **CAM3VEZD** and save 10% on trading fees for life. | `CAM3VEZD` | https://accounts.binance.com/en/register?ref=CAM3VEZD |
 | Binance Futures | Use Binance Futures referral code **arwildo** and save 10% on trading fees. | `arwildo` | https://www.binance.me/en/futures/ref/arwildo |
 | KuCoin | Use KuCoin referral code **r3WVD7Y** and be part of KuCoin's rewarding trading fee bonus program with maximum 40% bonus | `r3WVD7Y` | https://www.kucoin.com/ucenter/signup?rcode=r3WVD7Y |
