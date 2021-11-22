@@ -12,3 +12,40 @@ Built with React and Tailwind.
 | Gate.io | Use Gate.io referral code **4395604** and save 30% on trading fees for life. | `4395604` | https://www.gate.io/ref/4395604 |
 | Tokocrypto | Use Tokocrypto referral code **5D78DQA9** and get cashback 10% on trading fees for life. | `5D78DQA9` | https://www.tokocrypto.com/account/signup?ref=5D78DQA9 |
 | Indodax | Use Indodax [**Referral Link**](https://indodax.com/ref/Arwildo/1) and get cashback 10% on trading fees for life. | `Arwildo` | https://indodax.com/ref/Arwildo/1 |
+
+## Keywords
+Binance referral code, 
+Binance Futures referral code, 
+KuCoin referral code, 
+FTX referral code, 
+Gate.io referral code, 
+Tokocrypto referral code, 
+Indodax referral code, 
+Binance discount code, 
+Binance Futures discount code, 
+KuCoin discount code, 
+FTX discount code, 
+Gate.io discount code, 
+Tokocrypto discount code, 
+Indodax discount code, 
+Binance cashback code, 
+Binance Futures cashback code, 
+KuCoin cashback code, 
+FTX cashback code, 
+Gate.io cashback code, 
+Tokocrypto cashback code, 
+Indodax cashback code, 
+Binance bonus code
+Binance Futures bonus code
+KuCoin bonus code
+FTX bonus code
+Gate.io bonus code
+Tokocrypto bonus code
+Indodax bonus code
+Binance referral link, 
+Binance Futures referral link, 
+KuCoin referral link, 
+FTX referral link, 
+Gate.io referral link, 
+Tokocrypto referral link, 
+Indodax referral link.
