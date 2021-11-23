@@ -1,12 +1,14 @@
 import React from 'react';
 
+import Logo from './assets/img/logo.svg';
+
 export default function(props) {
     return (
         <nav className="bg-gray-800 shadow-lg border-gray-900 shadow-lg">
             <div className="md:flex items-center justify-between py-5 px-8 md:px-12">
                 <div className="flex justify-between items-center">
                    <div className="text-2xl font-bold text-gray-400 md:text-3xl">
-                        <a href="#">Logo</a>
+                        <img className="mx-auto w-10" src={Logo} alt="All Referral Code" />
                    </div>
                     <div className="md:hidden">
                         <button type="button" className="block text-gray-800 hover:text-gray-900 focus:text-gray-900 focus:outline-none">
