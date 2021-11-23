@@ -1,7 +1,7 @@
 import React from 'react';
 
-import Navbar from './navbar';
-import Cards from './cards';
+import Navbar from './components/navbar';
+import Cards from './components/cards';
 
 export default function(props) {
     return [<Navbar />, <Cards />]

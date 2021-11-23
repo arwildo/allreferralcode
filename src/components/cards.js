@@ -1,7 +1,7 @@
 import React from 'react';
 
-import Binance from './assets/img/binance.png';
-import KuCoin from './assets/img/kucoin.png';
+import Binance from '../assets/img/binance.png';
+import KuCoin from '../assets/img/kucoin.png';
 
 export default function(props) {
     return (

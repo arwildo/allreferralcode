@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import './style.css';
 
-import Landing from "./components/landing.js";
+import Landing from "./landing.js";
 
 const Index = () => {
   return <Landing />
