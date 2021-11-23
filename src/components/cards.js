@@ -12,8 +12,8 @@ class Cards extends Component {
         return(
                 <div className="bg-gray-800 border border-gray-900 shadow-lg rounded-3xl p-4 m-4">
                 <div className="flex-none sm:flex">
-                    <div className=" relative h-32 w-32   sm:mb-0 mb-3">
-                        <img src={item.img} alt={item.title} className=" w-16 h-16 object-cover m-5 rounded-2xl" />
+                    <div className="relative h-32 w-32 sm:mb-0 mb-3">
+                        <img src={require("../assets/img/" + item.img).default} alt={item.title} className=" w-16 h-16 object-cover m-5 rounded-2xl" />
                     </div>
 
                     <div className="flex-auto sm:ml-5 justify-evenly">
@@ -27,7 +27,7 @@ class Cards extends Component {
                                 </div>
                             </div>
                         </div>
-                        <div className="flex pt-2  text-sm text-gray-400">
+                        <div className="flex py-2 text-sm text-gray-400">
                             <div className="flex-1 inline-flex items-center">
                                 <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 m-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v13m0-13V6a2 2 0 112 2h-2zm0 0V5.5A2.5 2.5 0 109.5 8H12zm-7 4h14M5 12a2 2 0 110-4h14a2 2 0 110 4M5 12v7a2 2 0 002 2h10a2 2 0 002-2v-7" />
@@ -50,7 +50,7 @@ class Cards extends Component {
 
     return (
              <div class="flex items-center justify-center min-h-screen bg-gray-900">
-                 <div className="max-w-3xl w-full mx-auto z-10">
+                 <div className="max-w-3xl w-full mx-auto z-10 my-10">
                     <div className="flex flex-col">
                             { cardlist }
                     </div>
