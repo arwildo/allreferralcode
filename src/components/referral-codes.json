@@ -1,0 +1,61 @@
+{
+    "data":
+    [
+        {
+            "title": "Binance",
+            "img" : "binance.png",
+            "desc" : "Use Binances referral code CAM3VEZD and save 10% on trading fees for life.",
+            "offer" : "10%",
+            "code" : "CAM3VEZD",
+            "link" : "https://accounts.binance.com/en/register?ref=CAM3VEZD"
+        },
+        {
+            "title": "KuCoin",
+            "img" : "kucoin.png",
+            "desc" : "Use KuCoin referral code r3WVD7Y and be part of KuCoin's rewarding trading fee bonus program with maximum 40% bonus.",
+            "offer" : "40%",
+            "code" : "r3WVD7Y",
+            "link" : "https://www.kucoin.com/ucenter/signup?rcode=r3WVD7Y"
+        },
+        {
+            "title": "FTX",
+            "img" : "ftx.png",
+            "desc" : "Use FTX referral code FreeDiscountFTX to save 5% on trading fees + 100% when you stake 25 FTT or more.",
+            "offer" : "5%",
+            "code" : "FreeDiscountFTX",
+            "link" : "https://ftx.com/referrals#a=FreeDiscountFTX"
+        },
+        {
+            "title": "Binance Futures",
+            "img" : "binance-futures.png",
+            "desc" : "Use Binance Futures referral code arwildo and save 10% on trading fees.",
+            "offer" : "10%",
+            "code" : "arwildo",
+            "link" : "https://www.binance.me/en/futures/ref/arwildo"
+        },
+        {
+            "title": "Gate.io",
+            "img" : "gateio.png",
+            "desc" : "Use Gate.io referral code 4395604 and save 30% on trading fees for life.",
+            "offer" : "30%",
+            "code" : "4395604",
+            "link" : "https://www.gate.io/ref/4395604"
+        },
+        {
+            "title": "Tokocrypto",
+            "img" : "tokocrypto.png",
+            "desc" : "Use Tokocrypto referral code 5D78DQA9 and get cashback 10% on trading fees for life.",
+            "offer" : "10%",
+            "code" : "5D78DQA9",
+            "link" : "https://www.tokocrypto.com/account/signup?ref=5D78DQA9"
+        },
+        {
+            "title": "Indodax",
+            "img" : "indodax.png",
+            "desc" : "Use Indodax Referral Link and get cashback 10% on trading fees for life.",
+            "offer" : "10%",
+            "code" : "Arwildo",
+            "link" : "https://indodax.com/ref/Arwildo/1"
+        }
+    ]
+}
