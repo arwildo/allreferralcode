@@ -26,20 +26,20 @@
             "link" : "https://ftx.com/referrals#a=FreeDiscountFTX"
         },
         {
-            "title": "Binance Futures",
-            "img" : "binance-futures.png",
-            "desc" : "Use Binance Futures referral code arwildo and save 10% on trading fees.",
-            "offer" : "10%",
-            "code" : "arwildo",
-            "link" : "https://www.binance.me/en/futures/ref/arwildo"
-        },
-        {
             "title": "Gate.io",
             "img" : "gateio.png",
             "desc" : "Use Gate.io referral code 4395604 and save 30% on trading fees for life.",
             "offer" : "30%",
             "code" : "4395604",
             "link" : "https://www.gate.io/ref/4395604"
+        },
+        {
+            "title": "Binance Futures",
+            "img" : "binance.png",
+            "desc" : "Use Binance Futures referral code arwildo and save 10% on trading fees.",
+            "offer" : "10%",
+            "code" : "arwildo",
+            "link" : "https://www.binance.me/en/futures/ref/arwildo"
         },
         {
             "title": "Tokocrypto",
