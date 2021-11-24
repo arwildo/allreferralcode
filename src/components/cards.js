@@ -12,9 +12,8 @@ class Cards extends Component {
         return(
                 <div className="bg-gray-800 border border-gray-900 shadow-lg rounded-3xl p-4 m-4">
                 <div className="flex-none sm:flex">
-                    <div className="relative h-32 w-32 sm:mb-0 mb-3">
-                        <img src={require("../assets/img/" + item.img).default} alt={item.title} className=" w-16 h-16 object-cover m-5 rounded-2xl" />
-                    </div>
+
+                    <img src={require("../assets/img/" + item.img).default} alt={item.title} className="w-12 h-12 sm:w-16 sm:h-16 object-cover mb-5 ml-2 sm:m-5" />
 
                     <div className="flex-auto sm:ml-5 justify-evenly">
                         <div className="flex items-center justify-between sm:mt-2">
