@@ -39,7 +39,7 @@ class Cards extends Component {
                                 </svg>
                                 <p className="font-bold">{item.code}</p>
                             </div>
-                            <a className="flex-no-shrink bg-blue-500 hover:bg-blue-400 px-5 ml-4 py-2 text-xs shadow-sm hover:shadow-lg font-medium tracking-wider text-white rounded-full transition ease-in duration-300" href={item.link}>REGISTER</a>
+                            <a className="flex-no-shrink bg-blue-500 hover:bg-blue-400 px-5 ml-4 py-3 text-xs shadow-sm hover:shadow-lg font-medium tracking-wider text-white rounded-full transition ease-in duration-300" href={item.link}>REGISTER</a>
                         </div>
                     </div>
                 </div>
