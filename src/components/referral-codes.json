@@ -60,10 +60,18 @@
         {
             "title": "Zipmex",
             "img" : "zipmex.png",
-            "desc" : "Use Zipmex Referral Code and get 5 ZMT when you stake 100 ZMT or more",
+            "desc" : "Use Zipmex Referral Code Q7OM0KUkTf and get 5 ZMT when you stake 100 ZMT or more",
             "offer" : "5 ZMT",
             "code" : "Q7OM0KUkTf",
             "link" : "https://trade.zipmex.com/id/accounts/sign-up?aff=Q7OM0KUkTf"
+        },
+        {
+            "title": "BetU Fantasy",
+            "img" : "betu.png",
+            "desc" : "Use Betu Fantasy Referral Code lZt8OpHWYI7969 and get 100 BETU Division 1 League for at least two Rounds. ",
+            "offer" : "100 BETU",
+            "code" : "lZt8OpHWYI7969",
+            "link" : "https://play.betufantasy.com/sports"
         }
     ]
 }
