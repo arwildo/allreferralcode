@@ -1,6 +1,6 @@
 #!/bin/python3
 
-exchanges = ["Binance", "Binance Futures", "KuCoin", "FTX", "Gate.io", "Tokocrypto", "Indodax"]
+exchanges = ["Binance", "Binance Futures", "KuCoin", "FTX", "Gate.io", "Tokocrypto", "Indodax", "Zipmex", "BetU Fantasy"]
 words = ["referral code, ", "discount code, ", "trading fee discount, ", "cashback code, ", "promo code, ", "bonus code", "referral link, "]
 
 def keywordsgen(exchanges, words):
