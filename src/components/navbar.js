@@ -7,9 +7,9 @@ export default function(props) {
         <nav className="bg-gray-800 shadow-lg border-gray-900 shadow-lg">
             <div className="md:flex items-center justify-between py-4 px-8 md:px-12">
                 <div className="flex justify-between items-center">
-                   <div className="text-2xl font-bold text-gray-400 md:text-3xl">
+                   <a className="text-2xl font-bold text-gray-400 md:text-3xl" href="https://arwildo.com/allreferralcode/">
                         <img className="mx-auto w-8" src={Logo} alt="All Referral Code" />
-                   </div>
+                   </a>
                     <div className="md:hidden">
                         <button type="button" className="block text-gray-800 hover:text-gray-900 focus:text-gray-900 focus:outline-none">
                             <svg className="h-6 w-6 fill-current" viewBox="0 0 24 24">

@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack serve --mode development",
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "transpile": "babel src -d dist --copy-files",
+    "prepublishOnly": "npm run transpile",
+    "deploy": "gh-pages -d dist/"
   },
   "repository": {
     "type": "git",
@@ -25,8 +28,9 @@
   "bugs": {
     "url": "https://github.com/arwildo/allreferralcode/issues"
   },
-  "homepage": "https://github.com/arwildo/allreferralcode#readme",
+  "homepage": "https://arwildo.com/allreferralcode",
   "dependencies": {
+    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },

@@ -29,7 +29,7 @@ export default function(props) {
 
         <div className="flex flex-col items-center justify-between mt-6 md:flex-row">
           <div>
-            <a href="#" className="text-xl font-bold">
+            <a href="https://arwildo.com/allreferralcode/" className="text-xl font-bold">
               <img className="w-8" src={Logo} />
             </a>
           </div>
