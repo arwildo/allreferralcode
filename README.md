@@ -13,7 +13,7 @@ Built with React and Tailwind.
 | Tokocrypto | Use Tokocrypto referral code **5D78DQA9** and get cashback 10% on trading fees for life. | `5D78DQA9` | https://www.tokocrypto.com/account/signup?ref=5D78DQA9 |
 | Indodax | Use Indodax [**Referral Link**](https://indodax.com/ref/Arwildo/1) and get cashback 10% on trading fees for life. | `Arwildo` | https://indodax.com/ref/Arwildo/1 |
 | Zipmex | Use Zipmex Referral Code **Q7OM0KUkTf** and get 5 ZMT when you stake 100 ZMT or more. | `Q7OM0KUkTf` | https://trade.zipmex.com/id/accounts/sign-up?aff=Q7OM0KUkTf |
-| BetU Fantasy | Use Betu Fantasy Referral Code **lZt8OpHWYI7969** and get 100 BETU when you join Division 1 League for at least two Rounds. | `lZt8OpHWYI7969` |  https://play.betufantasy.com/sports |
+| BetU Fantasy | Use Betu Fantasy Referral Code **lZt8OpHWYI7969** and get 100 BETU when you join Division 1 League for at least two rounds. | `lZt8OpHWYI7969` |  https://play.betufantasy.com/sports |
 
 ## Keywords
 Binance referral code, 
