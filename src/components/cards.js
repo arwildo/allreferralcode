@@ -79,7 +79,7 @@ class Cards extends Component {
               </section>
               */}
 
-               <div class="flex items-center justify-center min-h-screen bg-gray-900">
+               <div className="flex items-center justify-center min-h-screen bg-gray-900">
                    <div className="max-w-3xl w-full mx-auto z-10 my-10">
                       <div className="flex flex-col">
                               { cardlist }
