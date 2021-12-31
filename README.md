@@ -3,7 +3,7 @@ Website that shows fair, great deal referral code that will give user 5% to 100%
 Built with React and Tailwind.
 
 <p align=center> 
-  Website : <a href="https://arwildo.com/akunter/"><img src="https://allreferralcode.com/allreferralcode.png" width="16" alt="Logo"></img> AllReferralCode.com</a>
+  Website : <a href="https://allreferralcode.com"><img src="https://allreferralcode.com/allreferralcode.png" width="16" alt="Logo"></img> AllReferralCode.com</a>
  </p>
 
 ## Referral Codes
